@@ -24,10 +24,10 @@ namespace TestGitProject
         {
             InitializeComponent();
         }
-
+        //третье изменение
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Это первое изменение."); //второе изменение!!!!
+            MessageBox.Show("Это первое изменение."); //второе изменение!!!! 
         }
     }
 }
