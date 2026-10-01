@@ -27,7 +27,7 @@ namespace TestGitProject
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Это первое изменение.");
+            MessageBox.Show("Это первое изменение."); //второе изменение!!!!
         }
     }
 }
